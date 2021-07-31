@@ -1,0 +1,14 @@
+{
+  "name": "ua",
+  "version": "1.0.0",
+  "description": "This is a Assignment Task",
+  "main": "import_to_mongodb.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farha Imthiyaz",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.5"
+  }
+}
